@@ -76,6 +76,8 @@
         height="40" />
     <img src="./assets/rust-svgrepo-com.svg" alt="rust" width="40"
         height="40" />
+    <img src="./assets/solana.svg"
+        alt="solana" width="40" height="40" />
     <img src="./assets/bitcoin-svgrepo-com.svg"
         alt="bitcoin" width="40" height="40" />
     <img src="./assets/ethereum-svgrepo-com.svg"
