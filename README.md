@@ -50,20 +50,14 @@
 
 <br>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Skills:</h3>
 <p align="left">
-    <img src="./assets/html-5-svgrepo-com.svg"
-        alt="html" width="40" height="40" />
-    <img src="./assets/css-3-svgrepo-com.svg"
-        alt="css" width="40" height="40" />
-    <img src="./assets/javascript-svgrepo-com.svg"
-        alt="javascript" width="40" height="40" />
     <img src="./assets/typescript-icon-svgrepo-com.svg"
         alt="typescript" width="40" height="40" />
-    <img src="./assets/react-svgrepo-com.svg" alt="react"
-        width="react" height="40" />
     <img src="./assets/nodejs-icon-svgrepo-com.svg" alt="node.js"
         width="node" height="40" />
+    <img src="./assets/react-svgrepo-com.svg" alt="react"
+        width="react" height="40" />
     <img src="./assets/nextjs-icon-svgrepo-com.svg"
         alt="next" width="40" height="40" />
     <img src="./assets/vue-svgrepo-com.svg"
