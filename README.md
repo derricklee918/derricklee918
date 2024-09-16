@@ -55,9 +55,9 @@
     <img src="./assets/typescript-icon-svgrepo-com.svg"
         alt="typescript" width="40" height="40" />
     <img src="./assets/nodejs-icon-svgrepo-com.svg" alt="node.js"
-        width="node" height="40" />
+        width="40" height="40" />
     <img src="./assets/react-svgrepo-com.svg" alt="react"
-        width="react" height="40" />
+        width="40" height="40" />
     <img src="./assets/nextjs-icon-svgrepo-com.svg"
         alt="next" width="40" height="40" />
     <img src="./assets/vue-svgrepo-com.svg"
